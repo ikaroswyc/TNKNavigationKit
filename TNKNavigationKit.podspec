@@ -99,7 +99,7 @@ Pod::Spec.new do |spec|
 
   spec.ios.vendored_frameworks = "TNKNavigationKit/TNKNavigationKit.framework"
 
-  spec.libraries = "c++","stdc++.6.0.9","sqlite3.0"
+  spec.libraries = "c++","sqlite3.0"
 
   spec.compiler_flags = "-ObjC"
 
