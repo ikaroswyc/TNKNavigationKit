@@ -85,7 +85,7 @@ Pod::Spec.new do |spec|
 
   spec.source       = { :git => "https://github.com/ikaroswyc/TNKNavigationKit.git", :tag => spec.version.to_s }
 
-  spec.platform     = :ios, "9.0"
+  spec.platform     = :ios, "11.1"
 
   spec.requires_arc = true
 
