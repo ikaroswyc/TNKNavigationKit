@@ -105,6 +105,7 @@ Pod::Spec.new do |spec|
 
   spec.dependency "SDWebImage", "~> 4.3.3"
 
+  spec.dependency "QMapKit", "~> 4.2.3.1"
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
