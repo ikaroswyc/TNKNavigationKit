@@ -103,7 +103,7 @@ Pod::Spec.new do |spec|
 
   spec.compiler_flags = "-ObjC"
 
-  spec.dependency "SDWebImage", "~> 4.3.3"
+  spec.dependency "libwebp", "~> 1.0.0"
 
   spec.dependency "QMapKit", "~> 4.2.3.1"
 
