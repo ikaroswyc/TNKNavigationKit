@@ -105,8 +105,6 @@ Pod::Spec.new do |spec|
 
   spec.dependency "SDWebImage", "~> 4.3.3"
 
-  spec.dependency "TencentMapSdk", "~> 2.1"
-
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
