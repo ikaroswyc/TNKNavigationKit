@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TNKNavigationKit"
-  spec.version      = "5.0.8.1.1"
+  spec.version      = "5.0.8.1.2"
   spec.summary      = "This is a TencentNaviagtionKit."
 
   # This description is used to generate tags and improve search results.
@@ -105,7 +105,7 @@ Pod::Spec.new do |spec|
 
   spec.dependency "libwebp", "~> 0.6.1"
 
-  spec.dependency "QMapKit", "~> 4.2.3.1.1"
+  spec.dependency "QMapKit", "~> 4.2.3.1.2"
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
